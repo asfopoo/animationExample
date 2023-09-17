@@ -1,3 +1,16 @@
+
+
+
+https://github.com/asfopoo/animationExample/assets/35951824/2c364795-a534-43d5-94aa-675d092095ce
+
+
+
+
+https://github.com/asfopoo/animationExample/assets/35951824/46457254-eb0f-4dca-ba14-5fe5433cde50
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
